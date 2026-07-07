@@ -1,9 +1,10 @@
-<img width="444" height="214" alt="image" src="https://github.com/user-attachments/assets/5da525cb-5083-443d-b3c4-3c5bc5155d5c" /># YOLOv10: Real-Time Object Detection with GUI
+# YOLOv10: Real-Time Object Detection with GUI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![YOLOv10](https://img.shields.io/badge/YOLO-v10-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
 ![License](https://img.shields.io/badge/Academic-Project-red)
+
 
 ## 📌 Overview
 
@@ -12,6 +13,7 @@ This project was developed as part of our **IV Semester Mini Project**.
 The project is based on the research paper **"YOLOv10: Real-Time End-to-End Object Detection"** by **Ao Wang, Hui Chen, Lihao Liu, et al.**
 
 Our objective was to understand the YOLOv10 architecture, implement its concepts, and develop a desktop GUI that performs real-time object detection using different YOLOv10 model variants.
+
 
 ---
 
@@ -27,6 +29,7 @@ Our objective was to understand the YOLOv10 architecture, implement its concepts
 - Multiple YOLOv10 model selection (Nano, Small, Medium, Balanced, Large, Extra Large)
 
 ---
+
 
 ## 🛠️ Technologies Used
 
@@ -47,10 +50,11 @@ Our objective was to understand the YOLOv10 architecture, implement its concepts
 
 
 ```markdown
-![GUI](assets/gui.png)
+
 ```
 
 ---
+
 
 ## Detection Logs
 
@@ -64,7 +68,9 @@ Our objective was to understand the YOLOv10 architecture, implement its concepts
 ---
 
 
+
 ## 🚀 Installation
+
 
 Clone the repository
 
@@ -86,7 +92,9 @@ python app.py
 
 ---
 
+
 ## 📚 Learning Outcomes
+
 
 Working on this project helped us gain practical experience in:
 
@@ -104,11 +112,13 @@ Working on this project helped us gain practical experience in:
 
 ---
 
+
 ## 🙏 Acknowledgement
 
 We sincerely thank our faculty mentor for their valuable guidance and support throughout this project. We also thank our department and university for providing the opportunity to work on this project.
 
 ---
+
 
 ## 📖 Research Paper
 
@@ -120,6 +130,7 @@ This project is an academic implementation inspired by the following research pa
 https://arxiv.org/abs/2405.14458
 
 ---
+
 
 ## ⭐ Disclaimer
 
