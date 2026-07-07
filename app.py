@@ -351,7 +351,7 @@ class YOLOv10App:
         self.root.update()
 
         try:
-            self.model = YOLO(model_name)  # auto-downloads if not cached
+            self.model = YOLO(f"models/{model_name}")  # auto-downloads if not cached
         except Exception as ex:
             self.log(f"Model load failed: {ex}", 'err')
             self._set_status("Error", self.C['red'])
