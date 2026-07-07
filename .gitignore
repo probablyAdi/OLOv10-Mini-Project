@@ -1,0 +1,17 @@
+# Virtual environments
+yolo_env/
+yolo_gui/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
